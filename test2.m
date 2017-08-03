@@ -35,6 +35,7 @@ conj(g')%复数非共轭转置或  g.'
 format rat%输出格式为有理格式
 %trace(i)	i的迹
 %rank(g)	g的秩
+r= det(a);
 
 
 
